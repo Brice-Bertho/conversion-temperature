@@ -50,4 +50,13 @@ Sachant que voici les conversions, en prenant C une température en Celsius, F u
  - C = (F-32)/1.8
  - K = C + 273.15
 
+ N'oubliez pas de fournir les entêtes de réponse adéquats.
+ En cas d'erreur, il est attendu à ce que vous retourniez la structure suivante : 
+
+```xml
+<temperature>
+  <error></error>
+</temperature>
+```
+
 Bonus, réalisez le DTD ou le XSD associé!

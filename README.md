@@ -20,10 +20,6 @@ Vous pouvez également accéder à des sous routes telles que :
 Avant de modifier un script existant , il est toujours interessant de le lire et de le comprendre.
 Prenez donc un premier temps à lire les scripts qui se déroule. au sein de app.py
 
-# En apprendre plus sur les web services
-
-https://bogotobogo.com/python/python_http_web_services.php
-
 # Exercice à réaliser
 
 Forkez ce dépôt, implémentez votre code puis une fois satisfait par votre travail, réalisez une merge request.
@@ -59,4 +55,4 @@ Sachant que voici les conversions, en prenant C une température en Celsius, F u
 </temperature>
 ```
 
-Bonus, réalisez le DTD ou le XSD associé!
+En plus de la réalisation de cet XML, veuillez réaliser le XSD associé!
